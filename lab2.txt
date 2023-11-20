@@ -1,0 +1,112 @@
+2023-11-12	21:07	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)        101 [74-99 mg/dL]
+๏ BUN            11.6 [8.9-20.6 mg/
+๏ Creatinine     0.88 [0.73-1.18 mg
+๏ Uric acid       8.0 [3.7-7.7 mg/d
+๏ Cholesterol (H)  211 [<200 mg/dL]
+๏ Triglyceride     57 [<150 mg/dL]
+๏ HDL-C      (L) 37.8 [>40 mg/dL]
+๏ LDL-C      (H)162.8 [<130 mg/dL]
+๏ AST              26 [11-34 U/L]
+๏ ALT              24 [<45 U/L]
+๏ ALP        (L)   49 [50-116 U/L]
+๏ eGFR(CKD-EPI)    93 ml/min/1.7m2
+๏ eGFR(MDRD)       88 ml/min/1.7m2
+ Approved: นภธร 01/05/66 09:59															
+2023-09-12	12:15	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)  (H)  46 [74-99 mg/dL]
+๏ BUN        (H) 20.0 [7.0-18.7 mg/
+๏ Creatinine (H) 1.40 [0.55-1.02 mg
+๏ Uric acid  (H) 10.0 [2.5-6.2 mg/d
+๏ Cholesterol     136 [<200 mg/dL]
+๏ Triglyceride    109 [<150 mg/dL]
+๏ HDL-C      (L) 18.4 [>50 mg/dL]
+๏ LDL-C         101.1 [<130 mg/dL]
+๏ AST              16 [11-34 U/L]
+๏ ALT               6 [<34 U/L]
+๏ ALP        (H)  136 [46-122 U/L]
+๏ eGFR(CKD-EPI)    34 ml/min/1.7m2
+๏ eGFR(MDRD)       36 ml/min/1.7m2
+ Approved: นภธร 01/06/66 09:38															
+2023-08-12	07:01	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)        80 [74-99 mg/dL]
+๏ BUN            10.1 [7.0-18.7 mg/
+๏ Creatinine     0.59 [0.55-1.02 mg
+๏ Uric acid       4.4 [2.5-6.2 mg/d
+๏ Cholesterol (H)  211 [<200 mg/dL]
+๏ Triglyceride     98 [<150 mg/dL]
+๏ HDL-C          52.1 [>50 mg/dL]
+๏ LDL-C      (H)140.9 [<130 mg/dL]
+๏ AST              24 [11-34 U/L]
+๏ ALT              10 [<34 U/L]
+๏ ALP              95 [46-122 U/L]
+๏ eGFR(CKD-EPI)    94 ml/min/1.7m2
+๏ eGFR(MDRD)      101 ml/min/1.7m2
+ Approved: เกศริน 01/07/66 09:44															
+2023-07-12	14:15	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)        52 [74-99 mg/dL]
+๏ BUN            7.9 [7.0-18.7 mg/
+๏ Creatinine     0.92 [0.55-1.02 mg
+๏ Uric acid       5.3 [2.5-6.2 mg/d
+๏ Cholesterol     183 [<200 mg/dL]
+๏ Triglyceride     55 [<150 mg/dL]
+๏ HDL-C          58.0 [>50 mg/dL]
+๏ LDL-C         106.2 [<130 mg/dL]
+๏ AST              22 [11-34 U/L]
+๏ ALT               8 [<34 U/L]
+๏ ALP              52 [46-122 U/L]
+๏ eGFR(CKD-EPI)    70 ml/min/1.7m2
+๏ eGFR(MDRD)       63 ml/min/1.7m2
+ Approved: พัฒนพงศ์ 01/08/66 09:37															
+2023-06-12	17:07	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)        105 [74-99 mg/dL]
+๏ BUN             6.1 [7.0-18.7 mg/
+๏ Creatinine     0.61 [0.55-1.02 mg
+๏ Uric acid       6.2 [2.5-6.2 mg/d
+๏ Cholesterol (H)  249 [<200 mg/dL]
+๏ Triglyceride     84 [<150 mg/dL]
+๏ HDL-C          56.3 [>50 mg/dL]
+๏ LDL-C      (H)179.9 [<130 mg/dL]
+๏ AST              23 [11-34 U/L]
+๏ ALT              11 [<34 U/L]
+๏ ALP              94 [46-122 U/L]
+๏ eGFR(CKD-EPI)   100 ml/min/1.7m2
+๏ eGFR(MDRD)      101 ml/min/1.7m2
+ Approved: นภธร 01/09/66 09:43															
+2023-05-12	22:12	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)        120 [74-99 mg/dL]
+๏ BUN            15.7 [8.9-20.6 mg/
+๏ Creatinine     1.01 [0.73-1.18 mg
+๏ Uric acid       6.3 [3.7-7.7 mg/d
+๏ Cholesterol (H)  236 [<200 mg/dL]
+๏ Triglyceride    124 [<150 mg/dL]
+๏ HDL-C          51.8 [>40 mg/dL]
+๏ LDL-C      (H)173.0 [<130 mg/dL]
+๏ AST        (H)   39 [11-34 U/L]
+๏ ALT               9 [<45 U/L]
+๏ ALP              64 [50-116 U/L]
+๏ eGFR(CKD-EPI)    83 ml/min/1.7m2
+๏ eGFR(MDRD)       76 ml/min/1.7m2
+ Approved: สายฝน 01/10/66 09:46															
+2023-10-12	07:16	0000010	นายรักดี พากเพียร	Clinic เวชฯ-ตรวจสุขภาพ
+Test         Result [Ref. units]
+๏ Glu (FBS)        65 [74-99 mg/dL]
+๏ BUN            8.6 [7.0-18.7 mg/
+๏ Creatinine     0.62 [0.55-1.02 mg
+๏ Uric acid       4.8 [2.5-6.2 mg/d
+๏ Cholesterol (H)  217 [<200 mg/dL]
+๏ Triglyceride    127 [<150 mg/dL]
+๏ HDL-C          66.4 [>50 mg/dL]
+๏ LDL-C         126.9 [<130 mg/dL]
+๏ AST              24 [11-34 U/L]
+๏ ALT               7 [<34 U/L]
+๏ ALP             122 [46-122 U/L]
+๏ eGFR(CKD-EPI)   101 ml/min/1.7m2
+๏ eGFR(MDRD)      100 ml/min/1.7m2
+ Approved: ศรายุทธ 01/11/66 09:48															
